@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ☁ Cloud Engineer / Consultant @ [Novatec Consulting Gmbh](https://www.novatec-gmbh.de/en)
+- ☁ Lead Cloud Engineer / Consultant @ [CGI Inc.]([https://www.novatec-gmbh.de/en](https://www.cgi.com/en))
 - 🔭 Contributor to the first major [Mercedes-Benz AG](https://github.com/mercedes-benz/) FOSS project, the [DnA Platform](https://github.com/mercedes-benz/DnA)
 - 🌱 M.Sc degree in Software Technology
 - 👯 My [Master's Thesis](https://github.com/konsloiz/masters-thesis/blob/main/Thesis/Loizas_Masters_Thesis.pdf) implemented in cooperation with [Mercedes-Benz AG](https://github.com/mercedes-benz/) 
